@@ -1,0 +1,9 @@
+{
+  "name": "jest-image-snapshot-diff-reporter",
+  "version": "1.0.0",
+  "description": "Reports diff images for failing image snapshot tests",
+  "main": "index.js",
+  "repository": "https://github.com/harunurhan/jest-image-snapshot-diff-reporter",
+  "author": "harunurhan <harunurhan17@gmail.com>",
+  "license": "MIT"
+}
